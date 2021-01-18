@@ -1,5 +1,5 @@
 # Comandos basicos de github
--Github es un portal creado para alojar el código de las aplicaciones de cualquier desarrollador
+-Github es un portal creado para alojar el código de las aplicaciones de cualquier desarrollador.
 ```
 $ git clone <url>
 $ git add
